@@ -1,4 +1,5 @@
-Brain Stroke Prediction
+##Brain Stroke Prediction##
+
 About Brain Stroke
 Brain stroke is a medical emergency that occurs when the blood supply to part of the brain is interrupted or reduced. This sudden interruption can cause brain cells to die within minutes, leading to severe consequences. The impact of a stroke varies: some individuals recover completely, while others may have long-term disabilities affecting movement, speech, cognition, or other functions.
 
@@ -39,11 +40,7 @@ Decision Tree Classifier
 Random Forest Classifier
 K-Nearest Neighbors
 Support Vector Machine
-How to Run
-Clone the repository: git clone https://github.com/deepakdugar05/Brain_Stroke_Prediction.git
-Navigate to the project directory: cd Brain_Stroke_Prediction
-Open the Jupyter Notebook: jupyter notebook Brain_Stroke_Prediction.ipynb
-Run the cells to execute the code and see the results.
+
 Conclusion
 The project aims to build a predictive model for brain stroke risk, enabling healthcare providers to take proactive measures for at-risk individuals. The model's performance was evaluated using various metrics to ensure its effectiveness.
 
